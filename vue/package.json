@@ -1,0 +1,16 @@
+{
+  "name": "@moander/js1-vue",
+  "version": "0.0.1",
+  "description": "js1-vue",
+  "main": "src/index.js",
+  "repository": "https://github.com/moander/js1",
+  "author": "moander",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "dependencies": {
+    "@moander/js1": "^1.0.0"
+  }
+}

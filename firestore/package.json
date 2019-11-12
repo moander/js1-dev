@@ -1,0 +1,10 @@
+{
+  "name": "@moander/js1-firestore",
+  "version": "0.0.1",
+  "description": "firestore",
+  "main": "src/index.js",
+  "repository": "https://github.com/moander/js1-firestore",
+  "author": "moander <moander@outlook.com>",
+  "license": "MIT",
+  "private": false
+}
